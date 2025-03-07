@@ -26,7 +26,7 @@ insurance-fraud-detection/
 
 1. Clone the Repository:
 ```
-git clone https://github.com/yourusername/insurance-fraud-detection.git
+git clone https://github.com/mda84/insurance-fraud-detection.git
 cd insurance-fraud-detection
 ```
 
