@@ -67,6 +67,6 @@ if __name__ == "__main__":
     print("Generated Explanation GPT2:")
     print(generate_explanation(sample_claim))
     # Replace 'YOUR_ANTHROPIC_API_KEY' with your actual API key.
-    explanation = generate_explanation_anthropic(sample_claim, api_key="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")
+    explanation = generate_explanation_anthropic(sample_claim, api_key="***")
     print("Generated Explanation Anthropic:")
     print(explanation)
